@@ -3,7 +3,7 @@
 
 - I’m currently working on **nothing, just idling.**
 
-- 🌱 I’m currently learning **html, css, and js. Maybe C++ later.**
+- 🌱 I’m currently learning **website development, C#. Doing some C++, not the best.**
 
 - 📫 How to reach me **rxversed#5157.**
 
