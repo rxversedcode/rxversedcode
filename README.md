@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rxversed</h1>
 <h3 align="center">Not that good at coding.</h3>
 
-- I’m currently working on **nothing, just idling.**
+- I’m currently working on **weather client.**
 
 - 🌱 I’m currently learning **website development, C#. Doing some C++, not the best.**
 
