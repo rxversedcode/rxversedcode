@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **website development, C#. Doing some C++, not the best.**
 
-- 📫 How to reach me **rxversed#5157.**
+- 📫 How to reach me **rxversed#1000.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
