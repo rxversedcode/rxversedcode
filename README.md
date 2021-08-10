@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm rxversed</h1>
 <h3 align="center">Not that good at coding.</h3>
 
-- I’m currently working on **weather client.**
+- I’m currently working on **nothing, dm me if u want me to work on a project with u.**
 
 - 🌱 I’m currently learning **website development, C#. Doing some C++, not the best.**
 
-- 📫 How to reach me **rxversed#1000.**
+- 📫 How to reach me **rxversed#8601.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
