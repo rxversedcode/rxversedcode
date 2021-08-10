@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm rxversed</h1>
 <h3 align="center">Not that good at coding.</h3>
 
+![](https://komarev.com/ghpvc/?username=rxversedcode)
+
 - I’m currently working on **nothing, dm me if u want me to work on a project with u.**
 
 - 🌱 I’m currently learning **website development, C#. Doing some C++, not the best.**
