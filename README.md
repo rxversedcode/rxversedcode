@@ -3,11 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=rxversedcode)
 
-- I’m currently working on **nothing, dm me if u want me to work on a project with u.**
+- I’m currently working on **Hydrazine**
 
 - 🌱 I’m currently learning **website development, C#. Doing some C++, not the best.**
 
-- 📫 How to reach me **rxversed#8601.**
+- 📫 How to reach me **rxversed#0001.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WeatherClient&repo=WeatherClient&show_owner=true&theme=tokyonight)](https://github.com/WeatherClient/WeatherClient)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WeatherClient&repo=WeatherClient&show_owner=true&theme=tokyonight)](https://github.com/HydrazineClient/Hydrazine)
 
 ![rxversed github stats!](https://github-readme-stats.vercel.app/api?username=rxversedcode&show_icons=true&theme=tokyonight) 
 
