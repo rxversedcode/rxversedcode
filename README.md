@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect me!:</h3>
 <p align="left">
-nnel/UCSUbY-L1scKvtIPOLq5E_Ng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCSUbY-L1scKvtIPOLq5E_Ng" height="30" width="40" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCSUbY-L1scKvtIPOLq5E_Ng" height="30" width="40" /></a>
 <a href="discord.com/invite/PC3KKzkP4h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="rxversed#0001" height="30" width="40" /></a>
 </p>
 
