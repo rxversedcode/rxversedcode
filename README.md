@@ -5,7 +5,7 @@
 
 - I’m currently working on **Hydrazine**
 
-- 🌱 I’m currently learning **website development, C#. Doing some C++, not the best.**
+- 🌱 I'm learning C# mostly and experimenting with stuff.
 
 - 📫 How to reach me **rxversed#0001.**
 
