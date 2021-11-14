@@ -20,7 +20,7 @@
 
 <summary> <strong>Github</strong> </summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HydrazineClient&repo=Hydrazine&show_owner=true&theme=tokyonight)](https://github.com/HydrazineClient/Hydrazine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HydrazineClient&repo=SurgeLeaked&show_owner=true&theme=tokyonight)](https://github.com/HydrazineClient/Hydrazine)
 
 ![rxversed github stats!](https://github-readme-stats.vercel.app/api?username=rxversedcode&show_icons=true&theme=tokyonight) 
 
