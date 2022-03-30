@@ -25,6 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxversedcode&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/rxversedcode?template=terminal&config.timezone=America%2FLos_Angeles)
 
 <summary> <strong>Discord</strong> </summary>
  
