@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rxversedcode)
 
-- I’m currently working on **Hydrazine**
+- I’m currently working on **personal projects**
 
 - 🌱 I'm learning C# mostly and experimenting with stuff.
 
@@ -20,8 +20,6 @@
 
 <summary> <strong>Github</strong> </summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HydrazineClient&repo=SurgeLeaked&show_owner=true&theme=tokyonight)](https://github.com/HydrazineClient/Hydrazine)
-
 ![rxversed github stats!](https://github-readme-stats.vercel.app/api?username=rxversedcode&show_icons=true&theme=tokyonight) 
 
 
@@ -29,6 +27,6 @@
 
 
 <summary> <strong>Discord</strong> </summary>
- <p align="center">
+ 
   <img src="https://discord.c99.nl/widget/theme-3/563095907919331338.png" />
- </p>
+ 
